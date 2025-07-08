@@ -7,7 +7,7 @@ type: Standards Track
 category: ERC
 requires: 7702, 712
 author: 0xMostafas <0xMostafas@proton.me>
-discussions-to: https://ethereum-magicians.org/t/eip-tbd-masw/00000
+discussions-to: [Discussion][https://ethereum-magicians.org/t/erc-tbd-minimal-avatar-smart-wallet-masw-delegate-wallet-for-eip-7702/24761?u=mostafas]
 created: 2025-07-10
 ---
 
