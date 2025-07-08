@@ -156,7 +156,7 @@ A single global `metaNonce` is used. Two relayers submitting the same nonce conc
 
 ## Reference Implementation
 
-Reference implementation can be found here [`MASW.sol`](https://github.com/MostafaS/MASW/MASW.sol).
+Reference implementation can be found here [`MASW.sol`](https://github.com/MostafaS/MASW/blob/main/MASW.sol).
 
 ## Copyright
 
